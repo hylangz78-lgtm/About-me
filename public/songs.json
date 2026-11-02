@@ -8,19 +8,12 @@
     "spotify": "4cOdK2wGLETKBW3PvgPWqT"
   },
   "cerita": [
-    "Tulis paragraf pertama lu di sini. Bisa cerita kenapa lagu ini penting buat lu.",
-    "Paragraf kedua, ketiga, dan seterusnya tinggal ditambah di daftar ini."
+    "Ini tes pertama web gw."
   ],
   "foto": [
-    { "src": "foto/contoh1.svg", "caption": "Keterangan foto 1", "besar": true },
-    { "src": "foto/contoh2.svg", "caption": "Keterangan foto 2" },
-    { "src": "foto/contoh3.svg", "caption": "Keterangan foto 3" },
-    { "src": "foto/contoh4.svg", "caption": "Keterangan foto 4" }
+    { "src": "foto/kingkamil.webp", "caption": "Tes foto", "besar": true }
   ],
   "lagu": [
-    { "judul": "Judul Lagu 1", "artis": "Artis 1", "url": "https://open.spotify.com/" },
-    { "judul": "Judul Lagu 2", "artis": "Artis 2", "url": "https://music.youtube.com/" },
-    { "judul": "Judul Lagu 3", "artis": "Artis 3", "url": "https://open.spotify.com/" },
-    { "judul": "Judul Lagu 4", "artis": "Artis 4", "url": "https://open.spotify.com/" }
+    { "judul": "Judul Lagu 1", "artis": "Artis 1", "url": "https://open.spotify.com/" }
   ]
 }
