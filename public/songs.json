@@ -1,19 +1,18 @@
 {
-  "nama": "Nama Lu",
-  "tagline": "lagu yang lagi gw puter ulang terus",
-  "discord": "username_discord",
+  "nama": "Midnight Drifter",
+  "tagline": "on repeat tonight, volume up",
+  "discord": "midnight.drifter",
   "featured": {
-    "judul": "Judul Lagu Favorit",
-    "artis": "Nama Artis",
-    "spotify": "4cOdK2wGLETKBW3PvgPWqT"
+    "judul": "Now Playing",
+    "artis": "Artist Name",
+    "youtube": "SNaKnSCF2eI"
   },
   "cerita": [
-    "Ini tes pertama web gw."
+    "Welcome to my little corner of the internet. Press play, stay a while.",
+    "These are the songs that keep me company late at night."
   ],
   "foto": [
-    { "src": "foto/kingkamil.webp", "caption": "Tes foto", "besar": true }
+    { "src": "foto/kingkamil.webp", "caption": "Just a test", "besar": true }
   ],
-  "lagu": [
-    { "judul": "Judul Lagu 1", "artis": "Artis 1", "url": "https://open.spotify.com/" }
-  ]
+  "lagu": []
 }
